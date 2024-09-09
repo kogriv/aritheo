@@ -1,4 +1,6 @@
 # aritheo
+"Сколько живу, а такого номера я еще не видел )).."
+
 Advanced arithmetic and number theory resources
 
 Higher arithmetic refers to the branch of mathematics that studies integers and their properties. Key topics in higher arithmetic include:
